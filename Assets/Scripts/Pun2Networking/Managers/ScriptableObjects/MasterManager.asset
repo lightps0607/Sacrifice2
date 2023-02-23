@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e5b6dfc58d5725e44b8c75ecc5698f61, type: 3}
+  m_Name: MasterManager
+  m_EditorClassIdentifier: 
+  _gSettings: {fileID: 11400000, guid: 56d74729ffad05f4dbcdea72e1fd0e5b, type: 2}
+  _networkedPrefabs:
+  - Prefab: {fileID: 1523618474713820, guid: b2bbf8bc52990264a8f7df3a0bac1d19, type: 3}
+    Path: 2dPlayer
+  - Prefab: {fileID: 1035996322806998, guid: 732023bac257c304f9bd51dac5ca02b8, type: 3}
+    Path: Adv_Robot Kyle
+  - Prefab: {fileID: 140850, guid: 15f43343ba0a60e47a63d28496373c3f, type: 3}
+    Path: BigAsteroid
+  - Prefab: {fileID: 100030, guid: fe764102aa5aa431795da15fa2dec0e2, type: 3}
+    Path: My Robot Kyle -done-
+  - Prefab: {fileID: 174002, guid: c9248d8e58293473bb27cf2f5505f88b, type: 3}
+    Path: Player Controller
+  - Prefab: {fileID: 151774, guid: 18a79aea49b60d342b7a672b7a34edbe, type: 3}
+    Path: SmallAsteroid
+  - Prefab: {fileID: 178952, guid: 775dd0a15ad25a544b33ad40ef0da1f0, type: 3}
+    Path: Spaceship
+  - Prefab: {fileID: 5334550887053136080, guid: f7c2d50a6615fcc4fa1706cb4e165655,
+      type: 3}
+    Path: S_Player
