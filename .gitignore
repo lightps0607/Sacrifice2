@@ -1,0 +1,11 @@
+#Ignore Everything except Script Subdirectory
+
+/*
+/*/
+!/Assets
+/Assets/*
+!/Assets/Scripts
+
+!/.gitignore
+!/.gitattributes
+!/README.md
